@@ -125,3 +125,55 @@ input {
     margin: 0;
     padding: 0;
 }
+
+/* -------------------- PART 1 -------------------- */
+
+
+.part1 {
+    background-color: black;
+    position: absolute;
+    height: 35vh;
+    margin-top: 8px;
+    width: 100%; 
+    display: flex;
+    padding: 70px 0px;
+}
+
+#mt1 {
+    text-align: start;
+    display: flex;
+    font-size: 3.2em;
+    margin-top: 40px;
+    margin-bottom: 0.5em;
+    margin-left: 250px;
+    width: 12em;
+}
+
+#sub1 {
+    display: flex;
+    font-size: 1.6em;
+    margin-top: 30px;
+    margin-bottom: 0.3em;
+    margin-left: 250px;
+    text-align: start;
+    width: 20em;
+    font-weight: normal;
+}
+
+.video-container {
+    position: relative;
+}
+
+.video-container img {
+    position: relative;
+    top: -70px;
+    left: 50px;
+    height: 42vh;
+}
+
+.video-container video {
+    position: absolute;
+    height: 23.6vh;
+    left: 120px;
+    top: 15px;
+}
