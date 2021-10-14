@@ -255,3 +255,54 @@ p {
     bottom: 150px;
     height: 80px;
 }
+
+/* -------------------- PART 3 -------------------- */
+
+.part3 {
+    background-color: black;
+    position: absolute;
+    height: 50vh;
+    margin-top: 989px;
+    width: 100%; 
+    display: flex;
+}
+
+#mt3 {
+    text-align: start;
+    display: flex;
+    font-size: 3em;
+    margin-top: 120px;
+    margin-bottom: 0.5em;
+    margin-left: 250px;
+    width: 12em;
+}
+
+#sub3 {
+    display: flex;
+    font-size: 1.6em;
+    margin-top: 30px;
+    margin-bottom: 0.3em;
+    margin-left: 250px;
+    text-align: start;
+    width: 20em;
+    font-weight: normal;
+}
+
+.video-container {
+    position: relative;
+}
+
+.visual3 img {
+    position: relative;
+    top: 20px;
+    left: 80px;
+    height: 42vh;
+}
+
+.visual3 video {
+    position: absolute;
+    height: 20vh;
+    right: 551px;
+    top: 70px;
+}
+
