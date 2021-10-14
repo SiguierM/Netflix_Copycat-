@@ -177,3 +177,81 @@ input {
     left: 120px;
     top: 15px;
 }
+
+/* -------------------- PART 2 -------------------- */
+
+.part2 {
+    background-color: black;
+    position: absolute;
+    height: 50vh;
+    margin-top: 495px;
+    width: 100%; 
+    display: flex;
+}
+
+#mt2 {
+    text-align: start;
+    display: flex;
+    font-size: 3em;
+    margin-top: 65px;
+    margin-bottom: 0.5em;
+    margin-left: 925px;
+    width: 11em;
+}
+
+#sub2 {
+    display: flex;
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-bottom: 0.3em;
+    margin-left: 925px;
+    text-align: start;
+    width: 22em;
+    font-weight: normal;
+}
+
+.visual2 img {
+    position: relative;
+    margin-left: -1250px;
+    height: 40vh;
+}
+
+.download {
+    height: 100px;
+    width: 350px;
+    background-color: black;
+    border: 2px solid rgba(255, 255, 255, .25);
+    position: absolute;
+    margin-left: -1170px;
+    top: 255px;
+    border-radius: 1em;
+}
+
+.download img {
+    height: 80px;
+    position: relative;
+    margin-left: 15px;
+    top: 10px;
+}
+
+p {
+    position: relative;
+    color: white;
+    font-weight: bold;
+    bottom: 70px;
+    left: 90px;
+}
+
+#DL {
+    color: #0071EB;
+    font-weight: normal;
+    bottom: 80px;
+}
+
+.download video {
+    top: 50px;
+    position: relative;
+    margin-left: 50px;
+    bottom: 150px;
+    height: 80px;
+}
