@@ -434,3 +434,69 @@ p {
     height: 1em;
     padding-left: 225px;
 }
+
+/* -------------------- FOOTER -------------------- */
+
+footer {
+    background-color: black;
+    position: absolute;
+    height: 40vh;
+    margin-top: 178.625em;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h5 {
+    color: #757575;
+}
+
+footer a {
+    color: #757575;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.ft {
+    display: flex;
+    flex-direction: row;
+    padding-top: 3em;
+    height: 12em;
+}
+
+.ft1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 3em;
+    height: 12em;
+}
+
+.ft2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 3em;
+    height: 9em;
+}
+
+.ft3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 3em;
+    height: 9em;
+}
+
+.ft4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 3em;
+    height: 9em;
+}
