@@ -306,3 +306,41 @@ p {
     top: 70px;
 }
 
+/* -------------------- PART 4 -------------------- */
+
+.part4 {
+    background-color: black;
+    position: absolute;
+    height: 50vh;
+    margin-top: 1483px;
+    width: 100%; 
+    display: flex;
+}
+
+#mt4 {
+    text-align: start;
+    display: flex;
+    font-size: 3em;
+    margin-top: 65px;
+    margin-bottom: 0.5em;
+    margin-left: 925px;
+    width: 11em;
+}
+
+#sub4 {
+    display: flex;
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-bottom: 0.3em;
+    margin-left: 925px;
+    text-align: start;
+    width: 20em;
+    font-weight: normal;
+}
+
+.visual4 img {
+    position: relative;
+    height: 380vh;
+    margin-left: -1150px;
+    top: 30px;
+}
